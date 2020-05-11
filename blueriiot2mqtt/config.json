@@ -1,10 +1,10 @@
 {
     "name": "BlueRiiot2MQTT",
-    "version": "0.1.1",
+    "version": "latest",
     "slug": "blueriiot2mqtt",
     "description": "Add-on to translate between Blue Riiots pool API, and HASS via MQTT",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-    "url": "https://github.com/foXaCe/hass-addons",
+    "url": "https://github.com/LordMike/MBW.BlueRiiot2MQTT",
     "startup": "application",
     "boot": "auto",
 	"hassio_api": true,
